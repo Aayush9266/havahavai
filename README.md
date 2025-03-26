@@ -83,6 +83,13 @@ Implemented using **Riverpod** with:
 - `productsProvider` - Manages product list and pagination
 - `cartProvider` - Handles cart operations and total calculation
 - StateNotifier for business logic encapsulation
+---
+
+
+## **Contact**
+For queries or contributions, contact: **ayushasati04@gmail.com**
+
+---
 
 
 
