@@ -1,4 +1,4 @@
-# Hava Havai Shopping Cart Challenge
+# Hava Havai Shopping Cart 
 
 A Flutter-based shopping cart application developed as part of the Hava Havai hiring challenge. This app features product listing with pagination, cart management, and price calculations with discounts.
 
@@ -21,19 +21,15 @@ A Flutter-based shopping cart application developed as part of the Hava Havai hi
 
 <div align="center">
   <div style="display: flex; justify-content: space-between">
-    <img src="screenshots/products_screen.png" width="45%" alt="Products Screen">
-    <img src="screenshots/cart_screen.png" width="45%" alt="Cart Screen">
+    <img src="https://github.com/Aayush9266/havahavai/blob/master/screenshots/havahavai2.jpg" width="45%" alt="Products Screen">
+    <img src="https://github.com/Aayush9266/havahavai/blob/master/screenshots/havahavai1.jpg" width="45%" alt="Cart Screen">
   </div>
   <em>Left: Product listing with add to cart button | Right: Shopping cart with quantity controls</em>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="screenshots/product_detail.png" width="45%" alt="Product Detail">
-  <img src="screenshots/empty_cart.png" width="45%" alt="Empty Cart">
-  <em>Left: Product details dialog | Right: Empty cart state</em>
-</div>
+
 
 ## Technologies Used
 
