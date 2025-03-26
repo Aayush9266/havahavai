@@ -43,8 +43,8 @@ A Flutter-based shopping cart application developed as part of the Hava Havai hi
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/hava-havai-challenge.git
-cd hava-havai-challenge
+git clone https://github.com/Aayush9266/havahavai.git
+cd havahavai
 ```
 
 2. **Install dependencies**
